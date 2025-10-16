@@ -4,9 +4,10 @@
 This Power BI dashboard provides a comprehensive analysis of e-commerce performance through interactive visualizations and key performance indicators (KPIs).
 The main objective of this project is to highlight core business KPIs and provide actionable insights for better decision-making.
 
+<img width="1673" height="857" alt="Screenshot 2025-10-16 173803" src="https://github.com/user-attachments/assets/fbd5e57e-fea4-4544-ae78-c6793dfba81c" />
 
 
-<img width="1633" height="878" alt="Screenshot 2025-10-16 161627" src="https://github.com/user-attachments/assets/d22da1d4-b2e9-43fd-bbe6-c11aeef4a37c" />
+
 
 
 
@@ -42,6 +43,11 @@ Visualization Type	Description
 📉 Line Chart	Sales and Profit by Sub-Category
 🏙️ Tree Map	Top 10 Cities by Sales (Indore, Mumbai, Pune, etc.)
 
+
+
+
+
+<img width="1533" height="847" alt="Screenshot 2025-10-16 173910" src="https://github.com/user-attachments/assets/b2ce8027-6812-4c22-9473-4ea6f86ccc44" />
 
 
 ⚙️ Features
