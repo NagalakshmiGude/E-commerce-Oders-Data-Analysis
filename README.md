@@ -4,7 +4,11 @@
 This Power BI dashboard provides a comprehensive analysis of e-commerce performance through interactive visualizations and key performance indicators (KPIs).
 The main objective of this project is to highlight core business KPIs and provide actionable insights for better decision-making.
 
+
+
 <img width="1633" height="878" alt="Screenshot 2025-10-16 161627" src="https://github.com/user-attachments/assets/d22da1d4-b2e9-43fd-bbe6-c11aeef4a37c" />
+
+
 
   
 🎯 Main Objective
